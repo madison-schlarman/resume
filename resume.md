@@ -1,7 +1,6 @@
 ![Professional Headshot]('HE8A9243.jpg')
 
 *Madison Schlarman*
-Golden, CO                                                                                                              314.800.9962
 www.linkedin.com/in/madison-schlarman       
 madison_schlarman@mines.edu
 
