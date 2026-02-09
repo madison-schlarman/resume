@@ -1,4 +1,4 @@
-![Professional Headshot]('/mnt/c/Users/madis/OneDrive/Desktop/HE8A9252.jpg')
+![Professional Headshot]('resume\HE8A9243.jpg')
 
 *Madison Schlarman*
 Golden, CO                                                                                                              314.800.9962
