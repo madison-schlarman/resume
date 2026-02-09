@@ -1,4 +1,4 @@
-![Professional Headshot]('https://github.com/madison-schlarman/resume/blob/main/HE8A9243.jpg?raw=true')
+![Professional Headshot](https://github.com/madison-schlarman/resume/blob/main/HE8A9243.jpg?raw=true)
 
 **Madison Schlarman**
 www.linkedin.com/in/madison-schlarman       
