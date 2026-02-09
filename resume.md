@@ -1,22 +1,22 @@
-![Professional Headshot]('HE8A9243.jpg')
+![Professional Headshot]('https://github.com/madison-schlarman/resume/blob/main/HE8A9243.jpg?raw=true')
 
-*Madison Schlarman*
+**Madison Schlarman**
 www.linkedin.com/in/madison-schlarman       
 madison_schlarman@mines.edu
 
-*Education ________________________________________________________
+**Education**
 
 Colorado School of Mines, Golden, CO                                                                                    Graduating May 2028 Bachelor of Science - Geophysical Engineering               
 3.087 GPA 
 Honors & Awards: Thorson Honors Program, CSM Presidential Scholarship                                                                                                                           
 
-*Skills/Strengths ____________________________________________________
+**Skills/Strengths**
 
 Computer: Intermediate-level Python Language, Basic-level Ubuntu, Google and Microsoft Products
 Communication: Technical Writing, Presentation 
 Professional: Design, Organized, Creative Problem Solving, Team and Leadership Skills, Critical Thinking
 
-*Employment _______________________________________________________
+**Employment**
 
 Hostess                                                                                               
 Summer of 2025
@@ -34,7 +34,7 @@ Insured health and safety codes were met and maintained
 Promotion of products to guests based on their needs and requests
 Assisted in closing the bakery
 
-*Team Project Experience ______________________________________________
+**Team Project Experience**
 
 Honors Golden Design Project (2025) CSM, Golden, CO
 Redesigned the intersection layout and appearance of the bridge at Washington and CO-58 to better suit the style and safety goals of Golden DDA, worked in a small team to develop and present ideas and choice logic
@@ -42,6 +42,6 @@ Redesigned the intersection layout and appearance of the bridge at Washington an
 Class Committee Hallway Decoration (2023, 2024) KHS, Kirkwood, MO
 Designed and constructed large scale decorations to cover an entire hallway for school tradition, involving   digital rendering, material manipulation, and to scale models of various themed structures
 
-*Interests and Activities _______________________________________________
+**Interests and Activities**
 Organizations and Clubs: SWE, High Grade, Mines Band, Mines Curling Club Officer
 Hobbies: Multi-medium art projects, curling, visiting museums, games and animation
